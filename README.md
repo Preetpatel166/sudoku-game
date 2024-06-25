@@ -1,1 +1,1 @@
-# sudoku-game
+This is sudoku solver.
