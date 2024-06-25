@@ -1,1 +1,1 @@
-This is sudoku solver.
+This is sudoku solver program.
